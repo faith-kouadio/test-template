@@ -6,6 +6,6 @@ I am a UTSA student currently majoring in Public Health.
 </div>
 <p> </p>
 <div id="badges">
-  <a href="[https://www.linkedin.com/in/your-profile-url/](https://www.linkedin.com/in/faith-kouadio-95a466275/)">
+  <a href="(https://www.linkedin.com/in/faith-kouadio-95a466275/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
